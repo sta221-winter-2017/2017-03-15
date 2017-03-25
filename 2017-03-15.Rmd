@@ -208,7 +208,7 @@ $$SS_{Total} =  SS_A + SS_B + SS_{Error}$$
 
 $$N-1 = (I-1) + (J-1) + (N-I-J+1)$$
 
-\pause When the experiment is \textit{balanced} (strongly encouraged!) with $n$ in each combination of levels, the error degrees of freedom simplifies to $IJ(n-1)$.
+\pause ~~~When the experiment is \textit{balanced} (strongly encouraged!) with $n$ in each combination of levels, the error degrees of freedom simplifies to $IJ(n-1)$.~~~
 
 ## fire example - no interaction (?!)
 
